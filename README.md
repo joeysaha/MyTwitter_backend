@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+This is a database for my version of twitter.
+Run it with this command, please:
+  $rails s -p 4000
